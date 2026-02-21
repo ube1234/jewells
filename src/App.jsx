@@ -58,7 +58,7 @@ function App() {
             <div className="logo-icon-wrapper">
               <span className="logo-icon">✨</span>
             </div>
-            <span className="logo-text">Ruchi's Jewels</span>
+            <span className="logo-text">Rasi's Jewels</span>
           </div>
           <ul className="nav-menu">
             <li><a href="#home" onClick={() => setActiveSection('home')} className={activeSection === 'home' ? 'active' : ''}>Home</a></li>
